@@ -1,0 +1,23 @@
+{
+  "name": "better-say",
+  "version": "0.0.1",
+  "description": "Make your computer speak, and even better with multiple sentences",
+  "main": "app.js",
+  "scripts": {
+    "bin": "./bin/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/arufian/better-say.git"
+  },
+  "keywords": [
+    "tts",
+    "speech",
+    "say"
+  ],
+  "author": "Alfian Busyro <arufian@httlabs.io> (http://www.httlabs.io)",
+  "license": "MIT",  
+  "bugs": {
+    "url": "https://github.com/arufian/better-say/issues"
+  }
+}
