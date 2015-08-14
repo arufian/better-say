@@ -1,12 +1,10 @@
 {
   "name": "better-say",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "description": "Make your computer speak, and even better with multiple sentences",
   "main": "app.js",
   "scripts": {
-    "bin": "./examples/index.js",
-    "readfile": "./examples/readfile.js",
-    "test": "make test"
+    "bin": "./bin/index.js"
   },
   "repository": {
     "type": "git",
@@ -21,9 +19,5 @@
   "license": "MIT",  
   "bugs": {
     "url": "https://github.com/arufian/better-say/issues"
-  },
-  "devDependencies": {
-    "chai": ">=1.10.0",
-    "mocha": ">=2.0.1"
   }
 }
