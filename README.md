@@ -1,6 +1,8 @@
 better-say
 =========
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/arufian/better-say.svg)](https://greenkeeper.io/)
+
 Make your computer speak, and even better with multiple sentences and read from file.
 
 
